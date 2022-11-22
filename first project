@@ -1,0 +1,34 @@
+<html>
+
+<head>
+
+
+<link href=”./style.css” type=”text/css” rel=”stylesheet” />
+
+<title>Lesson 4</title>
+
+</head>
+
+<body>
+
+<li>first item</li>
+
+<h1>Body</h1>
+
+<p>This is a paragraph in the body.</p>
+
+</body>
+
+</html>
+
+font-weight 900
+
+
+
+
+
+
+
+
+<span id=”Macedonia”>Macedonia</span>
+<script src="https://kit.fontawesome.com/d7cbeea17a.js" crossorigin="anonymous"></script>
